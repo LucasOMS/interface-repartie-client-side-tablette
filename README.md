@@ -7,7 +7,9 @@ Modifier la ligne 110 pour y écrire l'adresse courante du serveur.
 ## Lancer l'application sur simulateur sur macOS
 
 Lancer les commandes 
+
 open -a Simulator
+
 fllutter run
 
 L'accès aux capteurs dépends des simulateurs et peux ne pas etre impléménté.
